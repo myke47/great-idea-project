@@ -173,6 +173,10 @@ footer {
     text-align: center;
 }
 
-footer content {
+.street {
+	line-height: 1;
+}
 
+.phone {
+	margin-top: 10px;
 }
